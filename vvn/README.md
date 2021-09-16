@@ -1,4 +1,4 @@
-D'autre fichier sur :
+D'autres fichiers sur :
 
 [https://github.com/Jodaille/VespaVelutinaAudioRecords/tree/main/complets](https://github.com/Jodaille/VespaVelutinaAudioRecords/tree/main/complets)
 
